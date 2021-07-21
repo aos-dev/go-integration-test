@@ -1,6 +1,6 @@
 github.com/Xuanwo/templateutils v0.1.0/go.mod h1:OdE0DJ+CJxDBq6psX5DPV+gOZi8bhuHuVUpPCG++Wb8=
-github.com/beyondstorage/go-storage/v4 v4.3.2 h1:F3xQVTcBJ+nSzEt/wBZCx4pE7aYhy43+tn1mwMYCacE=
-github.com/beyondstorage/go-storage/v4 v4.3.2/go.mod h1:8FHjTUFuwLl/mmIGpOL9g3RTZPyye7vneFN/JkRj5Tg=
+github.com/beyondstorage/go-storage/v4 v4.3.3-0.20210720033749-df6a96af6045 h1:M+nSMjNX5vqR+XkRcud0zKtm5L6ZTeP39lv2AEBqdGg=
+github.com/beyondstorage/go-storage/v4 v4.3.3-0.20210720033749-df6a96af6045/go.mod h1:8FHjTUFuwLl/mmIGpOL9g3RTZPyye7vneFN/JkRj5Tg=
 github.com/dave/dst v0.26.2/go.mod h1:UMDJuIRPfyUCC78eFuB+SV/WI8oDeyFDvM/JR6NI3IU=
 github.com/dave/gopackages v0.0.0-20170318123100-46e7023ec56e/go.mod h1:i00+b/gKdIDIxuLDFob7ustLAVqhsZRk2qVZrArELGQ=
 github.com/dave/jennifer v1.2.0/go.mod h1:fIb+770HOpJ2fmN9EPPKOqm1vMGhB+TwXKMZhrIygKg=
